@@ -1,21 +1,21 @@
 <!DOCTYPE html>
 <html lang='en'>
 <head>
-<meta charset="utf-8">
-<title> HTML text formatting elements </title>
+<meata charset="utf-8">
+<tittle> HTML text formatting elements </title>
 </head>
 <body> 
 
-    <h1>HTML text formatting elements </h1>
+    <h1>HTML text formatting elements <h1/>
 
     <p> “ Here we can see the HTML elements for text formatting with or without special meaning: </p>
     <p> <b> This is bold text </b> <p>
     <p> <strong> This is strong text </strong> </p>
-    <p> <i> This is italic text </i> </p>
+    <p><i> This is italic text <i> </p>
 
     <p> <em> This is emphasised text </em> </p>
-    <p> <sub> This is subscripted text </sub> </p>
+    <p> <sub> This is subscripted text /sb> </p>
     <p><sub> This is superscripted text </sub> </p>
-	<p>  This is <strike> strikethrough </strike> text  </p>
+<p> <sup> This is strikethrough text </sup> </p>
 </body>
 </html>
